@@ -41,7 +41,7 @@ Create a `config.json` file in the project directory, and configure the tomeDelv
 	"contentSelector": "#main-content",
 	"titleSelector": "h1",
 	"maxDepth": 2,
-	"excludeList": ["exclude-pages-that-include-this-string"],
+	"excludeList": ["exclude-urls-that-include-this-string"],
 	"retryOptions": {
  		"maxRetries": 7,
  		"initialDelay": 200
