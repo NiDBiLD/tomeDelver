@@ -1,0 +1,19 @@
+{
+	"baseUrl": "https://example.com",
+	"contentSelector": "#main-content",
+	"titleSelector": "h1",
+	"maxDepth": 2,
+	"excludeList": ["exclude-pages-that-include-this-string"],
+	"retryOptions": {
+ 		"maxRetries": 7,
+ 		"initialDelay": 200
+	},
+	"removeStrings": ["regexToRemove"],
+	"removeClasses": ["classToRemove"],
+	"stringReplacements": [
+ 		{
+   			"find": "stringToFind",
+   			"replace": "replacementString"
+ 		}
+	]
+}
