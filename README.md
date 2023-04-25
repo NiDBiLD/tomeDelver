@@ -56,7 +56,7 @@ Create a `config.json` file in the project directory, and configure the tomeDelv
 	]
 }
 ```
-##Usage
+## Usage
 
 To delve the tomes, execute the following command:
 
@@ -66,10 +66,9 @@ node tomeDelver.js
 
 The scraped content will be saved as markdown files in the output directory.
 
-##Future development
+## Future development
 
 - Make a wrapper module that takes an array of config objects and runs tomeDelver on multiple pages?
 
-
-##License
+## License
 MIT License
