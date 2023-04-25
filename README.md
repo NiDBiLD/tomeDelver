@@ -71,4 +71,5 @@ The scraped content will be saved as markdown files in the output directory.
 - Make a wrapper module that takes an array of config objects and runs tomeDelver on multiple pages?
 
 ## License
-MIT License
+
+¯\_(ツ)_/¯ Shrug License. Do whatever you want, I don't care, but keep it under Shrug License.
