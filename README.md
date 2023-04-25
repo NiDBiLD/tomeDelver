@@ -69,6 +69,7 @@ The scraped content will be saved as markdown files in the output directory.
 ## Future development
 
 - Make a wrapper module that takes an array of config objects and runs tomeDelver on multiple pages?
+- Provide multiple choices for output formats
 
 ## License
 
