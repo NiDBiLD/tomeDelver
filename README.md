@@ -72,4 +72,4 @@ The scraped content will be saved as markdown files in the output directory.
 
 ## License
 
-¯\_(ツ)_/¯ Shrug License. Do whatever you want, I don't care, but keep it under Shrug License.
+Shrug License. ¯\_(ツ)_/¯ Do whatever you want, I don't care, but keep it under Shrug License.
