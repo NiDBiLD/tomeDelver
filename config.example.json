@@ -12,7 +12,7 @@
 	"removeClasses": ["classToRemove"],
 	"stringReplacements": [
  		{
-   			"find": "stringToFind",
+   			"find": "regexToFind",
    			"replace": "replacementString"
  		}
 	]

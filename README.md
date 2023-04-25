@@ -50,7 +50,7 @@ Create a `config.json` file in the project directory, and configure the tomeDelv
 	"removeClasses": ["classToRemove"],
 	"stringReplacements": [
  		{
-   			"find": "stringToFind",
+   			"find": "regexToFind",
    			"replace": "replacementString"
  		}
 	]
